@@ -1,0 +1,15 @@
+[
+  {
+    "id": "small",
+    "name": "Whisper Small",
+    "description": "Fast and fairly accurate.",
+    "filename": "ggml-small.bin",
+    "url": "https://drive.google.com/uc?id=1wTmSQ-Er-qiEvHDYDng93M9szIXWjCp8&export=download",
+    "size_mb": 487,
+    "is_directory": false,
+    "engine_type": "Whisper",
+    "accuracy_score": 0.6,
+    "speed_score": 0.85
+  }
+]
+
