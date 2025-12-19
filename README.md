@@ -275,20 +275,3 @@ Final structure should look like:
 3. **Submit a pull request** with clear description of changes
 
 The goal is to create both a useful tool and a foundation for others to build upon—a well-patterned, simple codebase that serves the community.
-
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **Whisper** by OpenAI for the speech recognition model
-- **whisper.cpp and ggml** for amazing cross-platform whisper inference/acceleration
-- **Silero** for great lightweight VAD
-- **Tauri** team for the excellent Rust-based app framework
-- **Community contributors** helping make Nugget better
-
----
-
-_"Your search for the right speech-to-text tool can end here—not because Nugget is perfect, but because you can make it perfect for you."_
-
